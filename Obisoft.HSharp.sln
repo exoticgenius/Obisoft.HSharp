@@ -1,9 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 14
-VisualStudioVersion = 14.0.25123.0
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31919.166
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Obisoft.HSharp", "HSharp\Obisoft.HSharp.csproj", "{3CB49460-2228-4643-882E-9330C63BA5D4}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Obisoft.HSharp.Core", "Obisoft.HSharp.Core\Obisoft.HSharp.Core.csproj", "{B5819EF4-297D-4987-AA59-1125957320DB}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,12 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{3CB49460-2228-4643-882E-9330C63BA5D4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{3CB49460-2228-4643-882E-9330C63BA5D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{3CB49460-2228-4643-882E-9330C63BA5D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{3CB49460-2228-4643-882E-9330C63BA5D4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B5819EF4-297D-4987-AA59-1125957320DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B5819EF4-297D-4987-AA59-1125957320DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B5819EF4-297D-4987-AA59-1125957320DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B5819EF4-297D-4987-AA59-1125957320DB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {983D75EA-CD78-40A7-82FD-069AD5185428}
 	EndGlobalSection
 EndGlobal
