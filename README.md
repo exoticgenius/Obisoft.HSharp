@@ -1,4 +1,5 @@
 # HSharp
+### this is a port to .net 6
 HSharp is a library used to analyse markup language like HTML easily and fastly. 
 
 ## Only Two Functions
